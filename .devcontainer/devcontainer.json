@@ -1,0 +1,11 @@
+{
+	"name": "Miniconda (Python 3)",
+	"build": { 
+		"context": "..",
+		"dockerfile": "Dockerfile"
+	},
+
+	"extensions": [
+		"ms-python.python"
+	]
+}
